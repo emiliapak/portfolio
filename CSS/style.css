@@ -1,1 +1,185 @@
+body
+{
+  background: #FFF5EE url("INSERT OMA URL") repeat-x;
+}
 
+#wrap
+{
+  width:700px;
+  margin:0px auto 15px auto;
+  font-family:Verdana, Arial, Helvetica, sans-serif;
+  font-size:12px;
+  color: #8B008B;
+}
+
+
+
+
+/* Header */
+#header
+{
+  height:242px;
+  background:url("Portfolio/images/header.jpg") no-repeat left top;
+  clear: both;
+}
+
+#header h1
+{
+	text-align:center;
+}
+
+
+
+
+/*Header Menu*/
+#topmenu 
+{
+	display:block;
+	list-style:none;
+	padding:0 0px 0px 278px;
+	float: right;
+	width: 415px;
+	background: #000000 url("INSERT HEADER 2/TOP MENU?raw=true");
+	/*background-color:black;*/
+	position: fixed;
+	border: 4px dashed #ffffff;
+}
+
+#topmenu li 
+{
+	display:inline;
+}
+
+#topmenu a 
+{
+	display:block;
+	float:left;
+	height:28px;
+	margin:0px 0px 0px0px;
+	text-decoration:none;
+	padding:9px 15px 0px 15px;
+	text-align:center;
+}
+
+#topmenu a, #topmenu a:visited, #topmenu a:active 
+{
+	color:#ffffff;
+}
+
+#topmenu a:hover{
+	color:#ffffff;
+	background-color: #2b2b2b;
+}
+
+#topmenu .active a, #topmenu .active a:visited, #topmenu .active a:active
+{
+	color:#FFFFFF;
+	background-color: #2b2b2b;
+}
+
+
+
+
+/*Content*/
+#content
+{
+	background-color: #808000;
+}
+
+#mainpage
+{
+	width:700px;
+	float:left;
+	padding:5px 5px 5px 0px;
+	height:auto;
+}
+
+#mainpage p
+{
+	line-height:22px;
+	margin:10px 0px 22px 0px;
+	text-align: justify;
+	color:#333333;
+	width:100%;
+}
+
+#mainpage blockquote
+{
+	background:#FFDEAD;
+	display:block;
+	margin: 5px;
+	font:Georgia, "Times New Roman", Times, serif;
+	font-style:italic;
+}
+
+h2, h3, h4, h5
+{
+	color:#C71585;
+	font-weight:bold;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+#mainpage h1
+{
+	font-size:48px;
+	color: #20B2AA;
+	align:justify;
+}
+
+#mainpage h2
+{
+	font-size:18px;
+	padding-top:20px;
+	padding:10px;
+	border:2px solid #C71585;
+}
+
+
+
+
+/*footer*/
+#footer 
+{
+	margin:0 auto;
+	width:685px;
+	height:20px;
+	padding:10px;
+	color:#FFFFFF;
+	text-align: center;
+	background:#333333;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	clear: both;
+}
+
+#topbar
+{
+	height:78px;
+}
+
+
+
+/*tables*/
+table
+{
+	border-spacing:5px;
+}
+
+table th, td
+{
+	border: 1px solid #2b2b2b;
+	color: #000000;
+	padding:15px;
+	background-color:#7bcfd8;
+}
+
+th
+{
+	text-align:left;
+}
+
+#map
+{
+	height: 500px;
+	width:100%;
+}
