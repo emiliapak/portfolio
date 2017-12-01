@@ -42,7 +42,7 @@ body
 	background: #000000 url("INSERT HEADER 2/TOP MENU?raw=true");
 	/*background-color:black;*/
 	position: fixed;
-	border: 4px dashed #ffffff;
+	border: 4px dotted #ffffff;
 }
 
 #topmenu li 
