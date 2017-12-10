@@ -86,6 +86,23 @@ body
 	background-color: #808000;
 }
 
+#mainpage a, #mainpage a:visited, #mainpage a:active 
+{
+    color:#353535;
+    border: 1px #ffffff;
+}
+
+#mainpage a:hover{
+    color:#353535;
+    background-color: #636363;
+}
+
+#mainpage .active a, #mainpage .active a:visited, #mainpage .active a:active
+{
+    color:#353535;
+    background-color: #636363;
+}
+
 #mainpage
 {
 	width:700px;
