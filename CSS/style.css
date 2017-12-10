@@ -9,7 +9,7 @@ body
   margin:0px auto 15px auto;
   font-family:Verdana, Arial, Helvetica, sans-serif;
   font-size:12px;
-  color: #8B008B;
+  color: #bc0719;
 }
 
 
@@ -122,7 +122,7 @@ h2, h3, h4, h5
 #mainpage h1
 {
 	font-size:48px;
-	color: #20B2AA;
+	color: #e21223;
 	align:justify;
 }
 
@@ -131,7 +131,7 @@ h2, h3, h4, h5
 	font-size:18px;
 	padding-top:20px;
 	padding:10px;
-	border:2px solid #C71585;
+	border:2px solid #820000;
 }
 
 
