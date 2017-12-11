@@ -195,6 +195,16 @@ th
 	text-align:left;
 }
 
+#div1
+{
+background-color: #98adf2;
+}
+
+#div2
+{
+background-color: #1e1e33;
+}
+
 #map
 {
 	height: 500px;
